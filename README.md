@@ -67,3 +67,12 @@ This project demonstrates how to perform real-time object detection using the YO
 
 ```bash
 python yolo.py --image images/baggage_claim.jpg
+
+## Example Outputs
+
+### Input Image:
+<img src="images/car.jpg" alt="Input Image" width="300"/>
+
+### Output Image:
+<img src="output/detected_output.jpg" alt="Output Image" width="300"/>
+
