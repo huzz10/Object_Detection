@@ -63,10 +63,7 @@ This project demonstrates how to perform real-time object detection using the YO
     ```
 3. The output image will be saved to the specified output folder with the detected objects annotated.
 
-### Example
 
-```bash
-python yolo.py --image images/baggage_claim.jpg
 
 ## Example Outputs
 
