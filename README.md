@@ -2,6 +2,13 @@
 # YOLO Object Detection with OpenCV
 
 This project demonstrates how to perform real-time object detection using the YOLO (You Only Look Once) algorithm implemented via OpenCV. YOLO is a state-of-the-art, fast, and accurate object detection system that identifies multiple objects in a single pass over the image.
+## Example Outputs
+
+### Input Image:
+<img src="images/car.jpg" alt="Input Image" width="300"/>
+
+### Output Image:
+<img src="output/detected_output.jpg" alt="Output Image" width="300"/>
 
 ---
 
@@ -65,11 +72,5 @@ This project demonstrates how to perform real-time object detection using the YO
 
 
 
-## Example Outputs
 
-### Input Image:
-<img src="images/car.jpg" alt="Input Image" width="300"/>
-
-### Output Image:
-<img src="output/detected_output.jpg" alt="Output Image" width="300"/>
 
