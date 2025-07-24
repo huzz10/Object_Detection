@@ -42,7 +42,7 @@ This project demonstrates how to perform real-time object detection using the YO
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-name/yolo-object-detection.git
+    git clone https://github.com/huzz10/yolo-object-detection.git
     cd yolo-object-detection
     ```
 
